@@ -41,3 +41,16 @@
 .markdown .thumbnail img {
   vertical-align: top;
 }
+
+.markdown blockquote {
+  padding-left: 1em;
+  border-left-color: #ccc;
+}
+
+.markdown .thumbnail img {
+  vertical-align: top;
+}
+
+#shaarli-title-desktop i {
+  display: none;
+}
