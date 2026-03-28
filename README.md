@@ -15,7 +15,7 @@ Be sure the default theme is activated in `data/config.json.php`
 
 Clone the git repository
 
-    git clone https://github.com/reinboldg/shaarli-default-theme-user-css.git
+    git clone https://github.com/t1t4nium/shaarli-default-theme-user-css.git
 
 Copy a CSS file into the Shaarli's data directory
 
